@@ -2,6 +2,8 @@
 
 Name:          Brandon Mota
 
+The program performs mathematical operations using the postfix notation
+
 =================================================================================*/
 
 import java.util.*;
